@@ -414,6 +414,3 @@ else:
 # img = Image.open(image_path)
 # plt.imshow(img)
 # plt.show()
-
-Generated Caption:
-start of the water soaking out of the water with his reflection in his hand as he looks at it while another dog watches him in the background watch him watches him from the
